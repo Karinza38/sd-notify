@@ -1,4 +1,4 @@
-# `sd-notify`
+ # `sd-notify`
 
 [![Actions Status]][github actions] [![Latest Version]][crates.io] [![API docs]][docs.rs]
 
